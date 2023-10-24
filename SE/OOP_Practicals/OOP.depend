@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1584205420 source:d:\dypsoe\oop\main.cpp
+	<iostream>
+
+1641443388 source:d:\dypsoe\oop\program1.cpp
+	<iostream>
+
+1641443534 source:d:\dypsoe\oop\program2.cpp
+	<iostream>
+	<string.h>
+
+1641366954 source:d:\dypsoe\oop\program3.cpp
+	<iostream>
+	<stdio.h>
+
+1640884227 source:d:\dypsoe\oop\program4.cpp
+	<iostream>
+	<fstream>
+
+1641367049 source:d:\dypsoe\oop\program5.cpp
+	<iostream>
+
+1641367582 source:d:\dypsoe\oop\program7.cpp
+	<iostream>
+	<map>
+	<string>
+	<utility>
+
