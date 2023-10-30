@@ -14,4 +14,6 @@ This repository contains practicals of the all the subjects as per SPPU AI&DS Cu
 
 ### Final Year
 1. [Information Retrieval Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/IR_Practicals)  
-2. [Machine Learning Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/ML_Practicals)
+2. [Machine Learning Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/ML_Practicals)  
+3. [DMV Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DMV_Practicals)  
+4. [Quantum AI Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/QAI_Practicals)
