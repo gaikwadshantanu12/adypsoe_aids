@@ -9,9 +9,10 @@ This repository contains practicals of the all the subjects as per SPPU AI&DS Cu
 5. [CGR Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/SE/CGR_Practicals)
 
 ### Third Year
-1. [Data Science Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/DS_Practicals)  
-2. [Cyber Security Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/CS_Practicals)  
-3. [ANN Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/ANN_Practicals)
+1. [AI Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/AI_Practicals)
+2. [Data Science Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/DS_Practicals)  
+3. [Cyber Security Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/CS_Practicals)  
+4. [ANN Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/TE/ANN_Practicals)
 
 ### Final Year
 1. [Information Retrieval Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/IR_Practicals)  
