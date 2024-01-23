@@ -1,7 +1,7 @@
 # SPPU AI&DS Practicals
 This repository contains practicals of the all the subjects as per SPPU AI&DS Curriculum
 
-![University Logo](https://images.app.goo.gl/YnWjYEkM52LSPxzUA)
+![AI Logo](https://raw.githubusercontent.com/gaikwadshantanu12/adypsoe_aids/master/Logo.jpg)
 
 ### Second Year
 1. [DSA Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/SE/DSA_Practicals)  
