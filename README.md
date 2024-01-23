@@ -22,4 +22,4 @@ This repository contains practicals of the all the subjects as per SPPU AI&DS Cu
 3. [DMV Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DMV_Practicals)  
 4. [Quantum AI Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/QAI_Practicals)
 
-#### Made with 💜, maintained by Shantanu Anant Gaikwad. Keep supporting and contribute to the repository. Discussion tab is open.
+##### Made with 💜, maintained by Shantanu Anant Gaikwad. Keep supporting and contribute to the repository. Discussion tab is open.
