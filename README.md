@@ -19,3 +19,7 @@ This repository contains practicals of the all the subjects as per SPPU AI&DS Cu
 2. [Machine Learning Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/ML_Practicals)  
 3. [DMV Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DMV_Practicals)  
 4. [Quantum AI Practicals](https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/QAI_Practicals)
+5. [Deep Learning Practicals] (https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DL_Practicals)
+6. [Business Intelligence Practicals] (https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/BI_Practicals)
+7. [Computational Intelligence Practicals] (https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/CI_Practicals)
+8. [Distributed Computing Practicals] (https://github.com/gaikwadshantanu12/adypsoe_aids/tree/master/BE/DC_Practicals)
